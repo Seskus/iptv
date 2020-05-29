@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,###Manto Kanalai###
-#EXTINF:-1,LRT hls
+#EXTINF:-1,LRT 
 http://145.239.5.104:8888/lt-lrt/index.m3u8?token=test
-#EXTINF:-1,LRT Lituanica hls
+#EXTINF:-1,LRT 2
 http://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1,TV3 HD hls
+#EXTINF:-1,TV3 HD
 http://145.239.5.104:8888/lt-tv3/index.m3u8?token=test
-#EXTINF:-1,LNK HD hls
+#EXTINF:-1,LNK HD
 http://145.239.5.104:8888/lt-lnk/index.m3u8?token=test
-#EXTINF:-1,BTV HD hls
+#EXTINF:-1,BTV HD
 http://145.239.5.104:8888/lt-btv/index.m3u8?token=test
-#EXTINF:-1,2TV hls
+#EXTINF:-1,2TV
 http://145.239.5.104:8888/lt-liuks/index.m3u8?token=test
-#EXTINF:-1,TV6 hls
+#EXTINF:-1,TV6
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
-#EXTINF:-1,TV8 HD hls
+#EXTINF:-1,TV8 HD 
 http://145.239.5.104:8888/lt-tv8/index.m3u8?token=test
-#EXTINF:-1,Balticum TV hls
+#EXTINF:-1,Balticum TV
 http://145.239.5.104:8888/lt-balticum/index.m3u8?token=test
-#EXTINF:-1,Info TV hls
+#EXTINF:-1,Info TV
 http://145.239.5.104:8888/lt-info/index.m3u8?token=test
-#EXTINF:-1,Sport 1 HD hls
+#EXTINF:-1,Sport 1 HD
 http://145.239.5.104:8888/lt-sport1/index.m3u8?token=test
 #EXTINF:-1, Discovery Anglu
 http://51.15.0.141:80/Discovery/index.m3u8?token=test
