@@ -22,8 +22,12 @@ http://145.239.5.104:8888/lt-balticum/index.m3u8?token=test
 http://145.239.5.104:8888/lt-info/index.m3u8?token=test
 #EXTINF:-1,Sport 1 HD
 http://145.239.5.104:8888/lt-sport1/index.m3u8?token=test
-#EXTINF:-1, Discovery Anglu
-http://51.15.0.141:80/Discovery/index.m3u8?token=test
+#EXTINF:-1,Discovery Channel 36 12284R
+http://178.69.23.26:8000/play/36-ntv-discovery-channel-fb975ac
+#EXTINF:-1,Discovery Science 36 12341L
+http://178.69.23.26:8000/play/36-ntv-discovery-science-6188
+#EXTINF:-1,National Geographic 36 12284R
+http://178.69.23.26:8000/play/36-ntv-national-geographic-750eedd
 #EXTINF:-1, Eurosport 1
 http://51.15.0.141/eurosport_1/index.m3u8?token=test
 #EXTINF:-1, Eurosport 2
@@ -34,6 +38,20 @@ http://51.15.0.141/fox_comedy/index.m3u8?token=test
 http://51.15.0.141/fox_crime/index.m3u8?token=test
 #EXTINF:-1, fox HD
 http://51.15.0.141:80/fox/index.m3u8?token=test
+#EXTINF:-1,MTV 36 12284R
+http://178.69.23.26:8000/play/36-ntv-mtv-7f63d67
+#EXTINF:-1,MTV Dance 36 12284R
+http://178.69.23.26:8000/play/36-ntv-mtv-dance-a563b77
+#EXTINF:-1,MTV Hits 13 12054H
+http://178.69.23.26:8000/play/13-skyitalia-mtv-hits-b0efcc5
+#EXTINF:-1,MTV Hits 36 12284R
+http://178.69.23.26:8000/play/36-ntv-mtv-hits-a795681
+#EXTINF:-1,MTV Live HD 36 11823R
+http://178.69.23.26:8000/play/36-ntv-mtv-live-hd-f93f2fc
+#EXTINF:-1,MTV Music 24 19 11973V
+http://178.69.23.26:8000/play/19-mtv-networks-europe-mtv-music-24-5fb854c
+#EXTINF:-1,MTV Rocks 13 12054H
+http://178.69.23.26:8000/play/13-skyitalia-mtv-rocks-18f80b2
 #EXTINF:-1, nickelodeon
 http://51.15.0.141/nickelodeon/index.m3u8?token=test
 #EXTINF:-1,Bein Sports HD 2
@@ -74,8 +92,6 @@ http://178.217.72.66:80/225.201.2.247/tracks-v1a1/index.m3u8
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Кинопремьера HD
 http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Discovery Channel HD
-http://178.217.72.66:80/225.201.2.50/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Hollywood HD
 http://178.217.72.66:80/225.201.2.85/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 1 Республиканский HD
