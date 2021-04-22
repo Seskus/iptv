@@ -1,28 +1,20 @@
 #EXTM3U
 #EXTINF:-1,###Manto Kanalai###
-#EXTINF:-1,LRT HD
-http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
-#EXTINF:-1,LRT Plius HD
-http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
-#EXTINF:-1,TV3
-http://45.145.32.15:20004/tv3/video.m3u8
-#EXTINF:-1,LNK
-http://45.145.32.15:20004/lnk/video.m3u8
-#EXTINF:-1,TV1
-http://45.145.32.15:20004/tv1/video.m3u8
-#EXTINF:-1,TV8
-http://45.145.32.15:20004/tv8/video.m3u8
-#EXTINF:-1,TV6
-http://45.145.32.15:20004/tv6/video.m3u8
-#EXTINF:-1,BTV
-http://45.145.32.15:20004/btv/video.m3u8
-#EXTINF:-1,Lietuvos rytas TV
-http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
-#EXTINF:-1,Info TV
-http://45.145.32.15:20004/info_tv/video.m3u8
-#EXTINF:-1,Delfi TV
-http://45.145.32.15:20004/delfi_tv/video.m3u8
-#EXTINF:-1,2TV
-http://45.145.32.15:20004/2tv/video.m3u8
-#EXTINF:-1,Current Time
-http://45.145.32.15:20004/current_time/video.m3u8
+#EXTINF:-1, TV1 HD
+https://live.lnk.lt/lnk_live2/tv1hd/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=Kb2xGNekOSRdGOnUGzNPyXs6jxPqNTi_avksDkjj1HsikiX_D_APQCvggBxxB6SyOYRtJ9i1pzXWOP3yNXb9Qg==
+#EXTINF:-1, BALTICUM SD
+http://213.226.137.130:81/tl2/l11/index.m3u8
+#EXTINF:-1, LRT
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 , TV3 HD
+http://213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
+#EXTINF:-1 , TV6
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
+#EXTINF:-1 , LNK
+https://live.lnk.lt/lnk_live2/btvhd/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126091&tokenhash=pKEmoiFuwca6yFngG4p2ydHGRybEijdo4BrFPUY9i3wXHvWQlTrufeMtPSnQTsj_LGI-Eu-y-9TumgW_BUS1gQ==
+#EXTINF:-1 , INFO TV
+https://live.lnk.lt/lnk_live2/info/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=box3D6WzDmQAmnFEt5JPJA6TSEJXXp2XzyXOgO-cbffnZRwPTD-EmdAj8QY6zAnanWzH-PFrozT74i01ofDz8A==
+#EXTINF:-1 , LNK
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=NQIGNPtbwRtJubSWJvO4JZ3swesN2OIPgkx1b0KlDYllDov2Gc-1irq1u1FFdoy-ESBYtcaF3ZqONejTJBwlZg==
+#EXTINF:-1 , 2TV
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126091&tokenhash=EqFTN7V_clZTqUASwSDO_EKf1o_LoSsTHXsnrUdxZNBQ2kusfVy29z9UwjOhg4j_uHgHxet3w39wavDXm9jk7w==
