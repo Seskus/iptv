@@ -18,43 +18,4 @@ https://live.lnk.lt/lnk_live2/info/playlist.m3u8?tokenstarttime=0&tokenendtime=1
 https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=NQIGNPtbwRtJubSWJvO4JZ3swesN2OIPgkx1b0KlDYllDov2Gc-1irq1u1FFdoy-ESBYtcaF3ZqONejTJBwlZg==
 #EXTINF:-1 , 2TV
 https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126091&tokenhash=EqFTN7V_clZTqUASwSDO_EKf1o_LoSsTHXsnrUdxZNBQ2kusfVy29z9UwjOhg4j_uHgHxet3w39wavDXm9jk7w==
-#EXTINF:-1 ,VIP-KOREA-3-24
-http://hotstream.asia/2018/3/2/wc18022208-02.mp4
-#EXTINF:-1 ,VIP-KOREA-3-25
-http://hotstream.asia/2018/3/2/kbj18022509.mp4
-#EXTINF:-1 ,VIP-KOREA-3-26
-http://hotstream.asia/2018/3/2/kbj18022309.mp4
-#EXTINF:-1 ,VIP-KOREA-3-27
-http://hotstream.asia/2018/2/12/a18020704.mp4
-#EXTINF:-1 ,VIP-KOREA-3-28
-http://hotstream.asia/2018/2/12/wc18020304-07.mp4
-#EXTINF:-1 ,VIP-KOREA-3-29
-http://hotstream.asia/2018/2/12/hgyyqbcsj2.mp4
-#EXTINF:-1 ,VIP-KOREA-3-3
-http://hotstream.asia/2018/2/12/kbj18020810.mp4
-#EXTINF:-1 ,VIP-KOREA-3-30
-http://hotstream.asia/2018/2/12/wc18020802.mp4
-#EXTINF:-1 ,VIP-KOREA-3-31
-http://hotstream.asia/2018/3/2/wc18022208-02.mp4
-#EXTINF:-1 ,VIP-KOREA-3-32
-http://hotstream.asia/2018/3/2/kbj18020811-01.mp4
-#EXTINF:-1 ,VIP-KOREA-3-33
-http://hotstream.asia/2018/3/2/kbj18021508.mp4
-#EXTINF:-1 ,VIP-KOREA-3-34
-http://hotstream.asia/2018/3/2/kbj18022311-2.mp4
-#EXTINF:-1 ,VIP-KOREA-3-35
-http://hotstream.asia/2018/3/2/kbj18022104.mp4
-#EXTINF:-1 ,VIP-KOREA-3-36
-http://hotstream.asia/2018/3/2/kbj18021914.mp4
-#EXTINF:-1 ,VIP-KOREA-3-4
-http://hotstream.asia/2018/2/12/a18020703.mp4
-#EXTINF:-1 ,VIP-KOREA-3-5
-http://hotstream.asia/2018/2/12/kbj18021007.mp4
-#EXTINF:-1 ,VIP-KOREA-3-6
-http://hotstream.asia/2018/2/12/kbj18013011.mp4
-#EXTINF:-1 ,VIP-KOREA-3-7
-http://hotstream.asia/2018/2/12/kbj18013004-01.mp4
-#EXTINF:-1 ,VIP-KOREA-3-8
-http://hotstream.asia/2018/2/12/kbj18020909-02.mp4
-#EXTINF:-1 ,VIP-KOREA-3-9
-http://hotstream.asia/2018/2/12/camjddfihsyh.mp4
+
