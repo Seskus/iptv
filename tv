@@ -11,7 +11,7 @@ http://213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
 #EXTINF:-1 , TV6
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 #EXTINF:-1 , LNK
-https://live.lnk.lt/lnk_live2/btvhd/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126091&tokenhash=pKEmoiFuwca6yFngG4p2ydHGRybEijdo4BrFPUY9i3wXHvWQlTrufeMtPSnQTsj_LGI-Eu-y-9TumgW_BUS1gQ==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1620090384&tokenhash=sDs-8D3cOOq2RrpheLFIjnXT7Ht0x8iVTvSlQg7G0X2pNCI_MeT9BMxerqLjeioGBpkaDLpxJsMEV5K9eRfZfw==
 #EXTINF:-1 , INFO TV
 https://live.lnk.lt/lnk_live2/info/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=box3D6WzDmQAmnFEt5JPJA6TSEJXXp2XzyXOgO-cbffnZRwPTD-EmdAj8QY6zAnanWzH-PFrozT74i01ofDz8A==
 #EXTINF:-1 , LNK
