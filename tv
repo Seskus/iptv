@@ -7,12 +7,12 @@ http://213.226.137.130:81/tl2/l11/index.m3u8
 #EXTINF:-1, LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 , TV3 HD
-http://213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
 #EXTINF:-1 , TV6
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 #EXTINF:-1 , LNK HD
-https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1620090384&tokenhash=sDs-8D3cOOq2RrpheLFIjnXT7Ht0x8iVTvSlQg7G0X2pNCI_MeT9BMxerqLjeioGBpkaDLpxJsMEV5K9eRfZfw==
+https://live.lnk.lt/lnk_live/smil:lnk_live.smil/playlist.m3u8?tokenstarttime=0&tokenendtime=1620764722&tokenhash=EhgMT8y8nIRSnU-XRXCs95Zh-5w6s9fsJwP_vcqGdJB2nsZ_6el8sniw95awjpwgo65rCtqmanQT6KGqRi1Qvw==
 #EXTINF:-1 , INFO TV
 https://live.lnk.lt/lnk_live2/info/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126092&tokenhash=box3D6WzDmQAmnFEt5JPJA6TSEJXXp2XzyXOgO-cbffnZRwPTD-EmdAj8QY6zAnanWzH-PFrozT74i01ofDz8A==
 #EXTINF:-1 , 2TV
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1619126091&tokenhash=EqFTN7V_clZTqUASwSDO_EKf1o_LoSsTHXsnrUdxZNBQ2kusfVy29z9UwjOhg4j_uHgHxet3w39wavDXm9jk7w==
+https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1620764722&tokenhash=5s6_Zg5aF_crwEGhljJUHVa5FhjGjQONe9qefsZh7oq-mupo-NQBEVbiMsDOa1ui7VYSBsAEMbIfQOl9wkax1w==
